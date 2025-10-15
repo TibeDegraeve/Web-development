@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a13df360-7d99-4571-9e55-fa9a42b43a2b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/labo3/contact/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo3/contact/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo4/opdracht3/validated-contact/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo4/opdracht3/validated-homepage/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo4/opdracht3/validated-opleidingsaanbod/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo4/opdracht4/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo3/uitbreiding_homepage/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo3/uitbreiding_homepage/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +76,7 @@
       <option name="presentableId" value="Default" />
       <updated>1759910533282</updated>
       <workItem from="1759910534348" duration="17198000" />
-      <workItem from="1760513359160" duration="297000" />
+      <workItem from="1760513359160" duration="2984000" />
     </task>
     <servers />
   </component>
