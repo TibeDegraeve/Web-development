@@ -1,4 +1,5 @@
-.checklist {
+
+.checklist li{
     background-image: url("images/unchecked.png");
 
 }
