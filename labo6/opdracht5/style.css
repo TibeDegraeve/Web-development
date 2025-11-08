@@ -1,9 +1,5 @@
 a {
     background-image: url("images/icon_blue.png");
-    background-repeat: no-repeat;
     background-position: left center;
-    background-size: 16px 16px; /* schaalt icoon zodat het past */
-    padding-left: 24px;         /* ruimte voor het icoon */
-    display: inline-block;      /* zorgt dat de achtergrond zichtbaar is */
-    line-height: 20px;
+
 }
