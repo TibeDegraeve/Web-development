@@ -15,8 +15,7 @@ section > header {
 }
 section > header h1 {
     color: white;
-    text-align: left;
-    vertical-align: top;
+    margin: 0;
     font-size: 3.5em;
 }
 nav {
