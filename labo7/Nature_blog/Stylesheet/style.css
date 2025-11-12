@@ -22,6 +22,10 @@ section > header h1 {
 nav {
 background-color: darkgray;
 }
+nav a {
+    color: mediumspringgreen;
+
+}
 section > div {
     padding: 30px;
 }
