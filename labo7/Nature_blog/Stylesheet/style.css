@@ -10,8 +10,8 @@ section{
 section > header {
     background-image: url("header.jpg");
     background-size: cover;
-    background-repeat: no-repeat;
     background-position: center;
+    padding: 50px 30px;
 }
 section > header h1 {
     color: white;
