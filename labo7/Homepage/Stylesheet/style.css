@@ -29,3 +29,19 @@ img[src='images/max.verstappen.jpg']{
     display:block;
     width: max-content;
 }
+ul{
+    list-style-type: none;
+    padding-left: 0;
+}
+li{
+    background-color: aquamarine;
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px solid black;
+    margin-bottom: 10px;
+    margin-top: 15px;
+}
+li p{
+    margin-top: 10px;
+    margin-bottom: 0;
+}
