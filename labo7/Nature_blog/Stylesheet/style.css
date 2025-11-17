@@ -42,6 +42,7 @@ article header h2 {
     border-bottom: 1px solid #ccc;
     padding-bottom: 10px;
     margin-bottom: 10px;
+    display: inline-block;
 }
 article > footer a{
     color: blue;
