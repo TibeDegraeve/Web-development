@@ -1,6 +1,7 @@
 body{
     font-family: arial, helvetica, sans-serif;
     margin: 0;
+    padding:0;
 }
 section{
     width: 95%;
@@ -19,27 +20,33 @@ section > header h1 {
     font-size: 3.5em;
 }
 nav {
-background-color: darkgray;
+background-color: #444;
+    padding: 12px 40px;
 }
 nav a {
     color: mediumspringgreen;
+    text-decoration: none;
+    font-weight: bold;
 
 }
 section > div {
     padding: 30px;
 }
 article {
-    margin: 30px;
+    margin-bottom: 40px;
     background-color: lightgrey;
 }
-article h2 {
+article header h2 {
     font-size: 2.5em;
     text-align: left;
     vertical-align: top;
     border-bottom: black solid 5px;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
 }
 article > footer a{
     color: blue;
+    text-decoration: none;
 
 }
 article > footer {
