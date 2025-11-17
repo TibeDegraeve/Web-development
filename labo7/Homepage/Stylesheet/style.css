@@ -1,9 +1,32 @@
 body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    margin: 0;
-    padding: 0;
+    margin: 20px auto;
+    padding: 30px 40px;
+    line-height: 1.6;
+    background-color: lightgrey;
+    color: darkgray;
+    border-radius: 10px;
 }
 header h1{
+    font-size: 3em;
     font-weight: bold;
     border-bottom: 5px solid black;
+    color:midnightblue;
+}
+header h2{
+    font-size: 2em;
+    color: royalblue;
+    margin: 20px;
+}
+p{
+    margin-bottom: 10px;
+}
+a{
+    color: blue;
+}
+a:hover{text-decoration: underline;}
+img[src='images/max.verstappen.jpg']{
+    margin: auto;
+    display: block;
+    width: max-content;
 }
