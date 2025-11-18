@@ -1,0 +1,145 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 20px auto;
+    padding: 30px 40px;
+    line-height: 1.6;
+    background-color: lightgrey;
+    border-radius: 10px;
+}
+header h1{
+    font-size: 3em;
+    font-weight: bold;
+    border-bottom: 5px solid black;
+    color:midnightblue;
+}
+header h2{
+    font-size: 2em;
+    color: royalblue;
+    margin: 20px;
+}
+p{
+    margin-bottom: 10px;
+}
+a{
+    color: blue;
+}
+a:hover{text-decoration: underline;}
+img[src='images/max.verstappen.jpg']{
+    margin: 20px 0;
+    display:block;
+    width: max-content;
+}
+ul{
+    list-style-type: none;
+    padding-left: 0;
+}
+li{
+    background-color: aquamarine;
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px solid black;
+    margin-bottom: 10px;
+    margin-top: 15px;
+}
+li p{
+    margin-top: 10px;
+    margin-bottom: 0;
+}
+table {
+    border-collapse: collapse;
+    text-align: left;
+    width: 100%;
+    font: normal 12px/150% Arial, Helvetica, sans-serif;
+    background: #fff;
+    overflow: hidden;
+    border: 3px solid #36752D;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+}
+
+table td,
+table th {
+    padding: 10px 7px;
+}
+
+table thead th {
+    background: #36752D;
+    background: linear-gradient(to bottom, #36752D 5%, #275420 100%);
+    background-color: #36752D;
+    color: #FFFFFF;
+    font-size: 15px;
+    font-weight: bold;
+    border-left: 0 solid #36752D;
+}
+
+table thead th:first-child {
+    border: none;
+}
+
+table tbody td {
+    color: #275420;
+    font-size: 18px;
+    font-weight: normal;
+}
+
+table tbody .alt td {
+    background: #DFFFDE;
+    color: #275420;
+}
+
+table tbody td:first-child {
+    border-left: none;
+}
+
+table tbody tr:last-child td {
+    border-bottom: none;
+}
+
+table tfoot td {
+    padding: 0;
+    font-size: 10px;
+}
+
+table tfoot td div {
+    border-top: 1px solid #36752D;
+    background: #DFFFDE;
+    padding: 6px;
+}
+
+table tfoot ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-align: right;
+}
+
+table tfoot li {
+    display: inline;
+}
+
+table tfoot li a {
+    text-decoration: none;
+    display: inline-block;
+    padding: 2px 8px;
+    margin: 1px;
+    color: #FFFFFF;
+    border: 6px solid #36752D;
+    -webkit-border-radius: 7px;
+    -moz-border-radius: 7px;
+    border-radius: 7px;
+    background-color: #36752D;
+    background: linear-gradient(to bottom, #36752D 5%, #275420 100%);
+}
+
+table tfoot ul.active,
+table tfoot ul a:hover {
+    text-decoration: none;
+    border-color: #275420;
+    color: #FFFFFF;
+    background: none;
+    background-color: #36752D;
+}
+table tbody tr td.onbekend {
+    background-color: red;
+}
