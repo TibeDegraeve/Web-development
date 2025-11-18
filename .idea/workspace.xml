@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a13df360-7d99-4571-9e55-fa9a42b43a2b" name="Changes" comment="" />
+    <list default="true" id="a13df360-7d99-4571-9e55-fa9a42b43a2b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/labo7/opdracht2/Stylesheet/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo7/opdracht2/images/invincible.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo7/opdracht2/images/macmiller.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo7/opdracht2/images/max.verstappen.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo7/opdracht2/images/the-lord-of-the-ring-.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo7/opdracht2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,7 +50,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/Tibe/Documents/GitHub/Web-development/labo7/Homepage",
+    "last_opened_file_path": "C:/Users/Tibe/Documents/GitHub/Web-development/labo7/opdracht2",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -53,8 +62,9 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Tibe\Documents\GitHub\Web-development\labo7\Homepage" />
+      <recent name="C:\Users\Tibe\Documents\GitHub\Web-development\labo7\opdracht2" />
       <recent name="C:\Users\Tibe\Documents\GitHub\Web-development\labo7\Nature_blog" />
+      <recent name="C:\Users\Tibe\Documents\GitHub\Web-development\labo7\Homepage" />
       <recent name="C:\Users\Tibe\Documents\GitHub\Web-development\labo7\Nature_blog\images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -79,7 +89,7 @@
       <workItem from="1760513359160" duration="3461000" />
       <workItem from="1760783445201" duration="1454000" />
       <workItem from="1761121773014" duration="5022000" />
-      <workItem from="1762936252521" duration="13311000" />
+      <workItem from="1762936252521" duration="16342000" />
     </task>
     <servers />
   </component>
