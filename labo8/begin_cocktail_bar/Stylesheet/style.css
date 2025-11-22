@@ -24,6 +24,7 @@ h2{
     width: 30%;
     box-sizing: border-box;
     text-align: center;
+    border: 5px solid #a7cece;
 }
 #elixirs h1, #elixirs h2{
     color: indianred;
@@ -45,6 +46,11 @@ h2{
     background: #a7cece;
     border: dotted 1px white;
 }
+a{
+    text-decoration: black underline;
+
+
+}
 .cd{
     font-style: italic;
 }
@@ -56,7 +62,7 @@ header{
 }
 #footer{
     clear: both;
-    font-size: 50%;
+    font-size: 0.5em;
     text-align: center;
     margin-top: 20px;
     padding: 20px;
