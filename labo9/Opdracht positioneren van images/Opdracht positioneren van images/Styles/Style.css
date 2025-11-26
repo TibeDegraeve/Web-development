@@ -12,6 +12,7 @@ body{
 .article:nth-of-type(odd) img{
     float: left;
     margin-right: 10px;
+    
 }
 .article:nth-of-type(even){
     float: right;
