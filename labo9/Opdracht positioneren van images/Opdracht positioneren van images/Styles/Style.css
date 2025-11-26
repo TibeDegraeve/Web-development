@@ -1,0 +1,17 @@
+body{
+    margin: 0 10px;
+    padding: 0;
+    font-size: 1.25em;
+}
+.article{
+    margin-bottom: 10px;
+
+}
+.article:nth-of-type(odd) img{
+    float: right;
+    margin-left: 10px;
+}
+.article:nth-of-type(even){
+float: left;
+    margin-right: 10px;
+}
