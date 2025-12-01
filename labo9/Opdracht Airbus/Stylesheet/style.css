@@ -93,3 +93,20 @@ header img{
     display: block;
 }
 
+.bottom {
+    background-color: #666666;
+    color: white;
+    line-height: 2em;
+
+}
+.bottom .block{
+    margin-left: 120px;
+}
+.bottom a:hover{
+    color: red;
+}
+.copyright{
+    text-align: center;
+    background-color: white;
+    color: black;
+}
