@@ -4,3 +4,28 @@ body{
     text-align: center;
 }
 
+header{
+    height:200px;
+    background-image: url("../images/bgsky3.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    color: darkblue;
+
+}
+.bovenstetitel{
+    font-size: 300%;
+    font-style: italic;
+    font-weight: bold;
+}
+.onderstetitel{
+    font-size: 240%;
+    font-weight: bold;
+}
+header img{
+    right:250px;
+    bottom:60px;
+    position: absolute;
+    z-index: 10;
+}
