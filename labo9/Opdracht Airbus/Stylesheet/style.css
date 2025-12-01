@@ -4,7 +4,7 @@ body{
     text-align: center;
 }
 
-header{
+.top{
     height:200px;
     background-image: url("../images/bgsky3.jpg");
     background-repeat: no-repeat;
@@ -28,4 +28,22 @@ header img{
     bottom:60px;
     position: absolute;
     z-index: 10;
+}
+.news{
+    width: 25%;
+    float: right;
+    background-color:  #dddddd;
+    border: 1px #999999 solid;
+
+}
+.news p{
+    color: #666666;
+    font-size: 90%;
+    margin: 10px;
+}
+.news h3{
+    color: white;
+    background-color: blue;
+    text-align: center;
+    font-size: 120%;
 }
