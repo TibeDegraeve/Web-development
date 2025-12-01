@@ -107,16 +107,17 @@ body{
     background-color: #666666;
     color: white;
     line-height: 2em;
+    overflow: hidden;
+    padding: 20px 0;
 
 }
-.bottom .block1{
+.bottom .block{
     margin-left: 120px;
     float: left;
+    text-align: left;
 }
-.bottom .block2{
-    margin-left: 120px;
-    float: right;
-}
+
+
 .bottom a{
     color: white;
     text-decoration: none;
