@@ -47,3 +47,49 @@ header img{
     text-align: center;
     font-size: 120%;
 }
+.main{
+    width: 75%;
+    margin-right: 10px;
+    float: left;
+}
+.main .introduction{
+    background-color: white;
+    color: black;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 30px;
+
+}
+.main .introduction span{
+    color: blue;
+    font-weight: bold;
+    font-style: italic;
+}
+.main figure{
+    float: left;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.main .gallery{
+    background-color: #999999;
+    overflow: hidden;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+.main .foto{
+    float: left;
+    background-color: #999999;
+    padding: 10px;
+    border: 1px #999999 dotted;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+.main .foto img{
+    width: 180px;
+    height: 180px;
+    display: block;
+}
+
