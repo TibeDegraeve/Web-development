@@ -90,7 +90,7 @@ body{
 }
 .main .foto{
     float: left;
-    background-color: #999999;
+    background-color: white;
     padding: 10px;
     border: 1px #999999 dotted;
     margin-right: 20px;
@@ -109,8 +109,13 @@ body{
     line-height: 2em;
 
 }
-.bottom .block{
+.bottom .block1{
     margin-left: 120px;
+    float: left;
+}
+.bottom .block2{
+    margin-left: 120px;
+    float: right;
 }
 .bottom a{
     color: white;
