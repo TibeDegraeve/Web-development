@@ -1,7 +1,10 @@
+*{
+    box-sizing: border-box;
+}
 body{
     font-family: arial, helvetica, sans-serif;
     width: 95%;
-    text-align: center;
+    margin: 0 auto;
 }
 
 .top{
@@ -9,21 +12,23 @@ body{
     background-image: url("../images/bgsky3.jpg");
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: center;
+    position: relative;
     text-align: center;
     color: darkblue;
+    overflow: hidden;
 
 }
 .bovenstetitel{
     font-size: 300%;
     font-style: italic;
     font-weight: bold;
+    margin: 10px 0;
 }
 .onderstetitel{
     font-size: 240%;
     font-weight: bold;
 }
-header img{
+.top img, header img{
     right:250px;
     bottom:60px;
     position: absolute;
@@ -34,12 +39,14 @@ header img{
     float: right;
     background-color:  #dddddd;
     border: 1px #999999 solid;
+    padding: 10px;
 
 }
 .news p{
     color: #666666;
     font-size: 90%;
-    margin: 10px;
+    margin: 10px 0;
+    text-align: left;
 }
 .news h3{
     color: white;
@@ -49,8 +56,10 @@ header img{
 }
 .main{
     width: 75%;
-    margin-right: 10px;
+    margin-right: 0;
+    padding-right: 10px;
     float: left;
+    box-sizing: border-box;
 }
 .main .introduction{
     background-color: white;
@@ -94,6 +103,7 @@ header img{
 }
 
 .bottom {
+    clear: both;
     background-color: #666666;
     color: white;
     line-height: 2em;
@@ -102,11 +112,17 @@ header img{
 .bottom .block{
     margin-left: 120px;
 }
+.bottom a{
+    color: white;
+    text-decoration: none;
+}
 .bottom a:hover{
     color: red;
 }
-.copyright{
+footer, .copyright{
     text-align: center;
     background-color: white;
     color: black;
+    padding: 10px;
+    margin-top:10px;
 }
