@@ -10,12 +10,12 @@ body{
     overflow: auto;
 
 }
-.article:nth-of-type(odd) img{
+.article:nth-child(odd) img{
     float: right;
     margin-left: 10px;
     
 }
-.article:nth-of-type(even){
+.article:nth-child(even){
     float: left;
     margin-right: 10px;
 }
