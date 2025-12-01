@@ -7,15 +7,15 @@ body{
     margin-bottom: 10px;
     border: 1px solid black;
     background-color: lightgrey;
-    overflow: auto;
+    overflow: hidden;
 
 }
-.article:nth-child(odd) img{
+.article:nth-of-type(odd) img{
     float: right;
     margin-left: 10px;
     
 }
-.article:nth-child(even){
+.article:nth-of-type(even){
     float: left;
     margin-right: 10px;
 }
