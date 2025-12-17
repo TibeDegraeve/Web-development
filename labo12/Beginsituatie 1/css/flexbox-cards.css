@@ -68,8 +68,13 @@ a {
     justify-content: space-around;
     flex-direction: row;
 
+
 }
 
 .card {
     /* flex-eigenschappen */
+    align-items: baseline;
+    justify-content: space-around;
+    flex-direction: row;
+
 }
