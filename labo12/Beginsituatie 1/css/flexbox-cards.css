@@ -64,17 +64,17 @@ a {
 
 .container {
 /* flex-eigenschappen */
+    display: flex;
     align-items: baseline;
     justify-content: space-around;
-    flex-direction: row;
 
 
 }
 
 .card {
     /* flex-eigenschappen */
-    align-items: baseline;
-    justify-content: space-around;
-    flex-direction: row;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 
 }
