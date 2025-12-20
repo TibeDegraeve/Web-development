@@ -1,0 +1,43 @@
+html {
+    background-color: #333;
+    font-family: helvetica, arial, sans-serif;
+}
+
+* {
+    padding: 10px;
+}
+
+header{
+    background-color: #ddaa00;
+
+}
+a{
+    color: #ddaa00;
+}
+nav{
+    background-color: #ccc;
+    padding: 5px 2px;
+}
+main{
+    background-color: grey;
+}
+nav a{
+    border: 1px #ccc;
+    margin: 0 5px;
+}
+section a {
+    border: 1px #333;
+}
+img{
+    padding: 0;
+}
+body{
+    font-size: 1em;
+    margin: 5px;
+}
+section{
+    margin: 5px;
+}
+h1{
+    margin: 0;
+}
