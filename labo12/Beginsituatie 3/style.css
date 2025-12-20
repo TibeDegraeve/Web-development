@@ -15,6 +15,9 @@ body {
   margin: 0;
 
   /* zorg dat section-block in het midden komt */
+    display: flex;
+    align-content: center;
+    justify-content: center;
 
 }
 
