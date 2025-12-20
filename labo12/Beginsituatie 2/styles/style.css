@@ -18,7 +18,7 @@ nav{
     background-color: #ccc;
     padding: 5px 2px;
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
 }
 main{
     background-color: grey;
@@ -37,6 +37,7 @@ section a {
 }
 img{
     padding: 0;
+    max-width: 100%;
 }
 body{
     font-size: 1em;
