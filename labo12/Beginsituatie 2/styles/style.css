@@ -28,6 +28,9 @@ main{
 nav a{
     border: 1px #ccc;
     margin: 0 5px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    text-align: center;
 }
 section a {
     border: 1px #333;
