@@ -7,19 +7,23 @@ html {
     padding: 10px;
 }
 
-header{
+header, footer {
     background-color: #ddaa00;
 
 }
-a{
+header a, footer a {
     color: #ddaa00;
 }
 nav{
     background-color: #ccc;
     padding: 5px 2px;
+    display: flex;
+    flex-direction: column;
 }
 main{
     background-color: grey;
+    display: flex;
+    flex-direction: column;
 }
 nav a{
     border: 1px #ccc;
@@ -40,4 +44,14 @@ section{
 }
 h1{
     margin: 0;
+}
+
+@media screen and (min-width: 700px){
+     nav{
+         flex-direction: row;
+         justify-content: flex-start;
+     }
+    main{
+        flex-direction: row;
+    }
 }
