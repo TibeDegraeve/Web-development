@@ -33,7 +33,7 @@ body {
   max-inline-size: 350px;
 
  /* tip: gebruik flex-direction"  */
-
+    flex-direction: column;
 
 }
 
