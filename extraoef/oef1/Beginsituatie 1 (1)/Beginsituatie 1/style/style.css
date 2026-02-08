@@ -5,23 +5,30 @@
     font-size: 16px;
     margin-top: 12px;
 }
-
+body{
+    text-align: center;
+}
 .gridHeader {
     background-color: #dcd6fe;
+    grid-area: header;
 }
 
 .gridNav {
     background-color: #c6c0ff;
+    grid-area: nav;
 }
 
 .gridMain {
     background-color: #f9f6d2;
+    grid-area: main;
 }
 
 .gridAside {
     background-color: #d4ffd1;
+    grid-area: aside;
 }
 
 .gridFooter {
     background-color: #ffd1d1;
+    grid-area: footer;
 }

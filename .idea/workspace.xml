@@ -5,11 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a13df360-7d99-4571-9e55-fa9a42b43a2b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/extraoef/oef1/Beginsituatie 1 (1)/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/extraoef/oef1/Beginsituatie 1 (1)/Beginsituatie 1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/extraoef/oef1/Beginsituatie 1 (1)/Beginsituatie 1/style/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extraoef/Beginsituatie Kitchn/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extraoef/Beginsituatie Kitchn/Beginsituatie Kitchn/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extraoef/Beginsituatie Kitchn/Beginsituatie Kitchn/images.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extraoef/Beginsituatie Kitchn/Beginsituatie Kitchn/start.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extraoef/Beginsituatie Kitchn/Beginsituatie Kitchn/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo13/Opdracht 2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo13/Opdracht 2/scripts/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo13/Opdracht 2/styles/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo13/Opdracht 3/demo rekenmachine/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo13/Opdracht 3/demo rekenmachine/demo rekenmachine/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo13/Opdracht 3/demo rekenmachine/demo rekenmachine/scripts/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo13/Opdracht 3/demo rekenmachine/demo rekenmachine/styles/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extraoef/oef1/Beginsituatie 1 (1)/Beginsituatie 1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/extraoef/oef1/Beginsituatie 1 (1)/Beginsituatie 1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extraoef/oef1/Beginsituatie 1 (1)/Beginsituatie 1/style/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/extraoef/oef1/Beginsituatie 1 (1)/Beginsituatie 1/style/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo10/Oefening_1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo10/Oefening_1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo10/Oefening_2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo10/Oefening_2/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,8 +32,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -47,24 +60,24 @@
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/Tibe/Documents/GitHub/Web-development/extraoef/oef1",
+    "last_opened_file_path": "C:/Users/Tibe/Documents/GitHub/Web-development/labo13/Opdracht 3",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.keymap",
+    "settings.editor.selected.configurable": "fileTemplates",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Tibe\Documents\GitHub\Web-development\labo13\Opdracht 3" />
+      <recent name="C:\Users\Tibe\Documents\GitHub\Web-development\extraoef" />
+      <recent name="C:\Users\Tibe\Documents\GitHub\Web-development\extraoef\oef1" />
       <recent name="C:\Users\Tibe\Documents\GitHub\Web-development\labo12" />
       <recent name="C:\Users\Tibe\Documents\GitHub\Web-development\labo11" />
-      <recent name="C:\Users\Tibe\Documents\GitHub\Web-development\labo7\opdracht3" />
-      <recent name="C:\Users\Tibe\Documents\GitHub\Web-development\labo7\opdracht2" />
-      <recent name="C:\Users\Tibe\Documents\GitHub\Web-development\labo7\Nature_blog" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Tibe\Documents\GitHub\Web-development" />
@@ -91,7 +104,8 @@
       <workItem from="1762936252521" duration="23340000" />
       <workItem from="1765354167286" duration="21878000" />
       <workItem from="1766580719288" duration="2402000" />
-      <workItem from="1767960732802" duration="11003000" />
+      <workItem from="1767960732802" duration="24099000" />
+      <workItem from="1770583733712" duration="1736000" />
     </task>
     <servers />
   </component>
